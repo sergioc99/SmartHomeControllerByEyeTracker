@@ -41,7 +41,7 @@ Nos encontramos en la primera versión de la aplicación, puede ver el versionad
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+_Autores del proyecto:_
 
 * **Sergio Calatrava Fernández**
 * **Juana López Redondo**
